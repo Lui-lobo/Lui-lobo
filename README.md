@@ -4,9 +4,9 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Lui-Lobo&bg_color=e6fffe&color=7d019c&line=0bdd59&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lui-lobo&count_private=true&show_icons=true&theme=dracula" style="width="100%" ">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lui-lobo&layout=compact&count_private=true&show_icons=true&theme=dracula" style="width="100%" ">
+<div align=center>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lui-lobo&count_private=true&show_icons=true&theme=dracula&bg_color=0d1117" style="width="100%" ">
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lui-lobo&layout=compact&count_private=true&show_icons=true&theme=dracula&bg_color=0d1117" style="width="100%" ">
 </div>
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=lui-lobo&theme=dracula&column=3&margin-w=15&margin-h=20&no-bg=true"/></p>
