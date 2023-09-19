@@ -35,7 +35,7 @@
 </div>
 
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=lui-lobo&theme=dracula&column=3&margin-w=15&margin-h=20&no-bg=true"/></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Lui-lobo&theme=dracula&column=3&margin-w=15&margin-h=20&no-bg=true"/></p>
 
 <h2>My social Midias</h2>
 
