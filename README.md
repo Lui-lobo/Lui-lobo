@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Assistant&size=32&duration=4500&pause=1000&color=0CF7A9&center=true&vCenter=true&width=1000&height=100&lines=Hello%2C+my+name+is+Luiz+Lobo+%3A);I+am+a+Software+Wizard;Be+welcome+to+my+Github+" alt="Typing SVG" /></a>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Lui-Lobo&bg_color=e6fffe&color=7d019c&line=0bdd59&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Lui-lobo&bg_color=e6fffe&color=7d019c&line=0bdd59&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align=center>
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lui-lobo&count_private=true&show_icons=true&theme=dracula&bg_color=0d1117" style="width="100%" ">
