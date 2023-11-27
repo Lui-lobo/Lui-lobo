@@ -5,8 +5,8 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Lui-lobo&bg_color=e6fffe&color=7d019c&line=0bdd59&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align=center>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lui-lobo&count_private=true&show_icons=true&theme=dracula&bg_color=0d1117" style="width="100%" ">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lui-lobo&layout=compact&count_private=true&show_icons=true&theme=dracula&bg_color=0d1117" style="width="100%" ">
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lui-lobo&count_private=falsee&show_icons=true&theme=dracula&bg_color=0d1117" style="width="100%" ">
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lui-lobo&layout=compact&count_private=false&show_icons=true&theme=dracula&bg_color=0d1117" style="width="100%" ">
 </div>
 
 <h2>My Skills and technologies</h2>
@@ -45,7 +45,7 @@
      <a><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-![](https://komarev.com/ghpvc/?username=Luiz-lobo&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Lui-lobo&style=for-the-badge)
 
 
 ![wave(3)](https://user-images.githubusercontent.com/111823489/221185527-690832e8-67cc-4968-a3a1-0549fb635396.svg)
