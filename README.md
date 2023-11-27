@@ -5,8 +5,8 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Lui-lobo&bg_color=e6fffe&color=7d019c&line=0bdd59&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align=center>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lui-lobo&count_private=false&show_icons=true&theme=dracula&bg_color=0d1117" style="width="100%" ">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lui-lobo&layout=compact&count_private=false&show_icons=true&theme=dracula&bg_color=0d1117" style="width="100%" ">
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lui-lobo&count_private=true&show_icons=true&theme=dracula&bg_color=0d1117" style="width="100%" ">
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lui-lobo&layout=compact&count_private=true&show_icons=true&theme=dracula&bg_color=0d1117" style="width="100%" ">
 </div>
 
 <h2>My Skills and technologies</h2>
