@@ -45,7 +45,7 @@
      <a><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-![](https://komarev.com/ghpvc/?username=Lui-lobo&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Luiz-lobo&style=for-the-badge)
 
 
 ![wave(3)](https://user-images.githubusercontent.com/111823489/221185527-690832e8-67cc-4968-a3a1-0549fb635396.svg)
