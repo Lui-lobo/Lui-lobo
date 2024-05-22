@@ -37,7 +37,7 @@
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Lui-lobo&theme=dracula&column=3&margin-w=15&margin-h=20&no-bg=true"/></p>
 
-<h2>My social Midias</h2>
+<h2>My social Medias</h2>
 
 <div>
      <a><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
